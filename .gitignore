@@ -1,0 +1,9 @@
+back/node_modules
+back/package-lock.json
+back/.next
+back/.vscode
+
+client/node_modules
+client/package-lock.json
+client/.next
+client/.vscode
